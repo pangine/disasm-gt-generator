@@ -1,0 +1,17 @@
+*
+!**/
+!**.go
+!**.c
+!**.cpp
+!**/CMakeLists.txt
+!*.md
+!*.java
+!deadzone.txt
+!.gitignore
+!Dockerfile
+!*.capnp
+**/llvm
+**/llvm-c
+**/build
+**/cmake-build-debug
+**/out
